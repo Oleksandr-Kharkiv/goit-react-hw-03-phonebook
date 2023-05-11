@@ -26,3 +26,6 @@ Filter.propTypes = {
   onChange: PropTypes.func.isRequired,
   filter: PropTypes.string.isRequired,
 };
+
+
+// -------------styled
